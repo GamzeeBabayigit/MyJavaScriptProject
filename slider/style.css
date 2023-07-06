@@ -1,0 +1,26 @@
+body,
+html {
+  height: 100%;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+} 
+body {
+    background: linear-gradient(15deg, #030c02 50%, #020102 50.1%);
+  }
+
+ 
+.card {
+    background: linear-gradient(15deg, #f5edf7 50%, #f5edf7 50.1%);
+  
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+  }
+
+  .card-img-top{
+    height: 30rem;
+  }
